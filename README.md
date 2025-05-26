@@ -47,9 +47,6 @@
 - [**Marketplace-Discord-Rep-Bot**](https://github.com/Wk4021/Marketplace-Discord-Rep-Bot)  
   Reputation system bot used in the RIT Marketplace Discord server (Python).
 
-- [**UItest2**](https://github.com/Wk4021/UItest2)  
-  Fork of a space-clock UI project—experimenting with Python GUIs & animation.
-
 - [**HotKeyScript**](https://github.com/Wk4021/HotKeyScript)  
   Drag-and-drop hotkey automation playground in Python.
 
