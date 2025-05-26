@@ -9,7 +9,11 @@
   <a href="mailto:wk4021@rit.edu">
     <img src="https://img.shields.io/badge/Email-wk4021%40rit.edu-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Winson%20Kwok-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
+
 
 ---
 
@@ -67,7 +71,6 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <!-- Activity graph (use one of the two URLs below) -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Wk4021&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
   />
@@ -78,8 +81,3 @@
 ## 📫 Contact Me
 
 - ✉️ wk4021@rit.edu
-
-<!--
-**Wk4021/Wk4021** is a ✨ _special_ ✨ repository because its `README.md`  
-appears on your GitHub profile. Feel free to customize further!
--->
