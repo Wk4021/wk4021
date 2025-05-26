@@ -9,7 +9,7 @@
   <a href="mailto:wk4021@rit.edu">
     <img src="https://img.shields.io/badge/Email-wk4021%40rit.edu-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/winson-kwok-890b8027b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Winson%20Kwok-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
